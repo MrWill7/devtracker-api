@@ -1,0 +1,16 @@
+{
+  "khang123": {
+    "secret": "secret123",
+    "active": true,
+    "plan": "basic",
+    "quota": 1000,
+    "used": 0
+  },
+  "719e0725": {
+    "secret": "f15ba8ad-890",
+    "active": true,
+    "plan": "basic",
+    "quota": 1000,
+    "used": 0
+  }
+}
