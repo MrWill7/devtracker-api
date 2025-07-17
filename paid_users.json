@@ -12,5 +12,12 @@
     "plan": "basic",
     "quota": 1000,
     "used": 0
+  },
+  "7d44c35a": {
+    "secret": "57d836de-621",
+    "active": true,
+    "plan": "premium",
+    "quota": 10000,
+    "used": 0
   }
 }
